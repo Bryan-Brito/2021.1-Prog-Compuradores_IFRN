@@ -1,0 +1,47 @@
+algoritmo "helloworld"
+
+var
+
+A, B, C: real
+
+inicio
+
+escreva ("escreva o lado de 'A'")
+leia (A)
+escreva ("escreva o lado de 'B'")
+leia(B)
+escreva ("escreva o lado de 'C'")
+leia (C)
+
+se ((A > 0 e B > 0 e C > 0) e (A > C - B) ou (A < B + C) e (B > A - C) ou (B < A + C) e (C > A - B) ou (C < A + B)) ENTAO
+   escreva ("é um triângulo")
+
+
+ se ((A == B e B == C) e (A > 0 e B > 0 e C > 0)) ENTAO
+
+    escreva ("escreva triangulo equilátero")
+
+   senao
+
+    se ((A != B e B!= C) e (A > 0 e B > 0 e C > 0)) ENTAO
+
+       escreva (" triângulo escaleno")
+
+       senao
+
+          se (((A == B e B != C) ou (B == A e A!=C) ou (B == C e C!=A) ou (C == A e A!=B) ou (C == B e B!=A)) e (A > 0 e B > 0 e C > 0)) ENTAO
+
+
+             escreva("triângulo isósceles")
+
+             senao
+
+               escreva("Impossível de calcular")
+             fimse
+          fimse
+       fimse
+    fimse
+   fimse
+ fimse
+fimse
+fimalgoritmo

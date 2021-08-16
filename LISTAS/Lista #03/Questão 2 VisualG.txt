@@ -1,0 +1,20 @@
+Algoritmo "Exponencial de lei"
+
+Var
+
+a, b, result: inteiro
+
+INICIO
+
+escreva ("Coloque o valor de 'A':")
+leia (a)
+
+escreva ("Coloque o valor de 'B':")
+leia(b)
+
+result <- (a + b) * (a + b)
+
+
+Escreval ("O valor do quadrado da soma dos dois valores lido é:", result )
+
+Fimalgoritmo

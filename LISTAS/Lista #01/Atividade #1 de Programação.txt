@@ -1,0 +1,42 @@
+A)
+
+I. Programação estruturada é aquela que utiliza uma variável para guardar um dado.
+
+II. A linguagem orientada a objeto é utilizada para a programação de um software/projeto, com grande influência na IA (Inteligência artificial).
+
+III. A linguagem funcional é voltada para a resolução de operações matemáticas. 
+
+B)
+
+I. Linguagens fracamente tipadas se tratam daquelas que não há a necessidade do programador fazer conversões dos tipos de dados.
+
+II. Linguagens fortemente tipadas se tratam daquelas em que todas as variáveis devem ter um tipo já atribuído.
+
+III. Linguagens dinamicamente tipadas são parecidas com as fortemente tipadas, entretanto, além de que cada variável tenha um tipo específico, elas podem ser alteradas conforme o desenrolar do código.
+
+IV. Linguagens estaticamente tipadas também são parecidas com as fortemenre tipadas, tendo que haver uma declaração prévia no código.
+
+C)
+
+I. Linguagem de baixo nível são aquelas de sintaxe complexa, para que a máquina possa entender.
+
+II. Linguagem de médio nível são aquelas que são compreendidas tanto pela máquina quanto pelo ser humano.   
+
+III. Utilizada para dar prioridade ao entendimento humano, a linguagem de alto nível leva uma sintaxe mais intuitiva.
+
+D)
+
+I. A linguagem compilada é aquela que é processada pelo sistema operacional ou até mesmo pelo processador.
+
+II. A linguagem interpretada é aquela que necessita de um interpretador para que após a operação, o sistema operacional ou o processador executam o código.
+
+III. A linguagem híbrida é aquela que pode ser compreendida por diferentes sistemas operacionais.
+
+E)
+
+I. Linguagem Desktop é composta pela linguagem binária, na qual o computador possa ler e também executar as tarefas especificadas pelo código.
+
+II. Linguagem Web é aquela que possa ser executada na internet, por meio de sites e domínios.
+
+
+   

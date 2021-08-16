@@ -1,0 +1,35 @@
+Algoritmo "Área do triângulo"
+
+Var
+
+x1, x2, delta, a, b, c : real
+
+INICIO
+
+escreva ("Coloque o valor para 'A':")
+leia (a)
+
+escreva ("Coloque o valor de 'B':")
+leia (b)
+
+escreva ("Coloque o valor de 'C':")
+leia(c)
+
+delta <- b*b - 4 * a * c
+
+se delta < 0 ENTAO
+   escreva ("Essa equação não existe")
+
+   senao faca
+
+   x1 <- (-b + raizQ(delta))/ 2 * a
+
+   x2 <- (-b - raizQ(delta))/ 2 * a
+
+   escreval ("O valor da primeira raiz é:", x1)
+   escreval ("O valor da segunda raiz é:", x2)
+
+fimse
+
+
+Fimalgoritmo

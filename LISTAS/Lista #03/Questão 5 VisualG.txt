@@ -1,0 +1,16 @@
+Algoritmo "Área do triângulo"
+
+Var
+
+c, f: real
+
+INICIO
+
+escreva ("Coloque a temperatura em Celsius:")
+leia (c)
+
+f <- (9 * c + 160)/ 5
+
+Escreval ("O valor em fahrenheit é:", f)
+
+Fimalgoritmo

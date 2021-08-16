@@ -1,0 +1,24 @@
+Algoritmo "Troca sincera"
+
+Var
+
+a, b, aux: real
+
+INICIO
+
+escreva ("Coloque o valor de 'A':")
+leia (a)
+
+escreva ("Coloque o valor de 'B':")
+leia(b)
+
+aux <- a
+
+a <- b
+
+b <- aux
+
+Escreval ("O valor de 'A' passou a ser:", a )
+Escreval ("E o valor de 'B' passou a ser:", b)
+
+Fimalgoritmo
