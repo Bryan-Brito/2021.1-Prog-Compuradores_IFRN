@@ -1,5 +1,0 @@
-str_input = 'Hello world'
-
-X = input('Insira o seu país')
-
-print({0}, ', mais especificamente para (o/a) {1}'.format(str_input, X))
