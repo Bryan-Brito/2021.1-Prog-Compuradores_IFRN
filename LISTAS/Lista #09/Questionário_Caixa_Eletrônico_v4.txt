@@ -1,0 +1,8 @@
+﻿#1. Vai armazenar a quantidade de cédulas de cada operação;
+#2. Vai calcular a quantidade de cédulas que serão utilizadas no saque;
+#3. Vai imprimir, com o método “.format”, a tabela contendo as cédulas que foram sacadas;
+#4. Irá verificar se o que o usuário digitou é válido;
+#5. Irá verificar se é desejo do usuário fazer outra operação;
+#6. Irá imprimir a quantidade de cédulas retiradas do caixa ao final da operação;
+#7. Irá encerrar a operação.
+
